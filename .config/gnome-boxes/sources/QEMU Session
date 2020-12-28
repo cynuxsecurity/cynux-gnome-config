@@ -1,0 +1,12 @@
+[source]
+name=QEMU Session
+type=libvirt
+uri=qemu+unix:///session
+save-on-quit=true
+
+[display b7e4f51d-e250-49a3-8192-8578572cc657]
+last-seen-name=cynuxsecurity-2020
+uuid=b7e4f51d-e250-49a3-8192-8578572cc657
+run-in-bg=true
+access-last-time=1608179452466322
+access-ntimes=1
